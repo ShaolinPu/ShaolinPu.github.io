@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 Thanks for visiting!
-----
+
 
 I am a Ph.D. candidate in the Department of Analytics, Information, and Operations of School of Business at the University of Kansas, specializing in Information Systems. 
 
-My research lies at the intersection of digital innovation, entrepreneurship, crowdfunding digital platform strategies and operations, and the strategic impact of AI in digital marketplaces.
+My research lies at the intersection of digital innovation, entrepreneurship, crowdfunding digital platform strategies and operations, and the strategic impact of GenAI in Business.
 
 I teach Data Analysis and Forecasting courses for undergraduate students. 
 
@@ -24,7 +24,7 @@ Research Interests
 - Digital Economy
 - Crowdfunding and Sharing Economy
 - Digital Platforms Strategy and Operations
-- Applications, Risks, and Strategic Impacts of AI in digital marketplaces
+- Applications, Risks, and Strategic Impacts of GenAI in Business
 
 Teaching Experience
 ----

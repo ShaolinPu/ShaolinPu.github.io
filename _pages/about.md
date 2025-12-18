@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting!
+***Thanks for visiting!***
 
 
 I am a Ph.D. candidate in the Department of Analytics, Information, and Operations of School of Business at the University of Kansas, specializing in Information Systems. 
@@ -47,3 +47,6 @@ Education
 Awards & Honors
 ----
 - Max E. Fessler Dissertation Award, University of Kansas, 2025
+
+
+***(Last revised: December 18, 2025)***

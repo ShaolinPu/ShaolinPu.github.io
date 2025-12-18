@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Thanks for visiting my website!
+
+Thanks for visiting!
+----
 
 I am a Ph.D. candidate in the Department of Analytics, Information, and Operations of School of Business at the University of Kansas, specializing in Information Systems. 
 

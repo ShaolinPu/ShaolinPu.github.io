@@ -8,14 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Researchs"
-    url: /publications/
+  # - title: "Researchs"
+  #  url: /publications/
 
   # - title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #  url: /teaching/    
     
   # - title: "Portfolio"
   #  url: /portfolio/
@@ -24,7 +24,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Shaolin Pu_CV_2025 for Web Page(Dec 15 updated).pdf
     
   # - title: "CV"
   #   url: /cv-json/

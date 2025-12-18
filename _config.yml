@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Shaolin Pu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Shaolin Pu"
+description              : &description "Shaolin Pu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://ShaolinPu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Shaolin Pu Photo_2021.JPG"
   name             : "Shaolin Pu"
-  bio              : "Innovation and Entrepreneurship, Crowdfunding, Digital Platforms Strategy and Operations, GenAI in Business"
+  bio              : "Innovation and Entrepreneurship, Crowdfunding, Digital Platforms, GenAI in Business"
   location         : "Lawrence, Kansas"
-  employer         : "School of Business, University of Kansas"
+  employer         : "University of Kansas"
   uri              : # URL
   email            : "shaolin@ku.edu" 
 
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
   pubmed           : 
@@ -56,7 +56,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -65,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "http://linkedin.com/in/shaolin-pu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

@@ -6,15 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Thanks for visiting my website!
 
 I am a Ph.D. candidate in the Department of Analytics, Information, and Operations of School of Business at the University of Kansas, specializing in Information Systems. 
 
-My research interests are in Innovation and Entrepreneurship, Digital Economy, Crowdfunding and Sharing Economy, Digital Platforms Strategy
-and Operations, and Applications, Risks, and Strategic Impacts of AI in Business.
+My research lies at the intersection of digital innovation, entrepreneurship, crowdfunding digital platform strategies and operations, and the strategic impact of AI in digital marketplaces.
 
-I teach BSAN/SCM 415 - Data Analysis and Forecasting courses for undergraduate students. If you are interested in discussing about research and teaching, feel free to email me at shaolin@ku.edu.
+I teach Data Analysis and Forecasting courses for undergraduate students. 
 
+If you are interested in discussing about research and teaching, feel free to email me at shaolin@ku.edu.
 
+Research Interests
+----
+- Innovation and Entrepreneurship
+- Digital Economy
+- Crowdfunding and Sharing Economy
+- Digital Platforms Strategy and Operations
+- Applications, Risks, and Strategic Impacts of AI in digital marketplaces
 
 Teaching Experience
 ----

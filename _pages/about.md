@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the Department of Analytics, Information, and Operations of School of Business at the University of Kansas, specializing in Information Systems. 
 
-My research lies at the intersection of digital innovation, entrepreneurship, crowdfunding digital platform strategies and operations, and the strategic impact of GenAI in Business.
+My research lies at the intersection of digital innovation, entrepreneurship, digital economy, crowdfunding and sharing economy, digital platform strategies and operations, and the strategic impact of GenAI in Business.
 
 I teach Data Analysis and Forecasting courses for undergraduate students. 
 
@@ -29,7 +29,7 @@ Research Interests
 Teaching Experience
 ----
 ***Instructor - University of Kansas, School of Business***
-- BSAN/SCM 415 - Data Analysis and Forecasting, (Currently Teaching, Fall 2025)
+- BSAN/SCM 415 - Data Analysis and Forecasting, (Evaluation Scores: 4.63/5, Fall 2025)
 - BSAN/SCM 415 - Data Analysis and Forecasting, (Evaluation Scores: 4.15/5, Fall 2024)
 
 ***Graduate Teaching Assistant - University of Kansas, School of Business***
@@ -49,4 +49,4 @@ Awards & Honors
 - Max E. Fessler Dissertation Award, University of Kansas, 2025
 
 
-***(Last revised: December 18, 2025)***
+***(Last revised: December 23, 2025)***

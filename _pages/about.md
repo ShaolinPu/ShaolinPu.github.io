@@ -50,4 +50,4 @@ Awards & Honors
 - Max E. Fessler Dissertation Award, University of Kansas, 2025
 
 
-***(Last revised: January 10, 2026)***
+(Last revised: January 10, 2026)

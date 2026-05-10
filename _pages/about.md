@@ -46,6 +46,7 @@ Education
 
 Awards & Honors
 ----
+- John. O. Tollefson Doctoral Student Teaching Award, University of Kansas, 2026
 - HICSS Doctoral Fellow, Hawaii International Conference on System Sciences (HICSS), 2026
 - Max E. Fessler Dissertation Award, University of Kansas, 2025
 

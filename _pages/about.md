@@ -29,17 +29,18 @@ Research Interests
 Teaching Experience
 ----
 ***Instructor - University of Kansas, School of Business***
-- BSAN/SCM 415 - Data Analysis and Forecasting, (30 Students, Teaching Evaluations: 4.63/5, Fall 2025)
-- BSAN/SCM 415 - Data Analysis and Forecasting, (29 Students, Teaching Evaluations: 4.15/5, Fall 2024) 
+- BSAN/SCM 415: Data Analysis and Forecasting, (30 Students, Teaching Evaluations: 4.63/5, Fall 2025)
+- BSAN/SCM 415: Data Analysis and Forecasting, (29 Students, Teaching Evaluations: 4.15/5, Fall 2024) 
 
 ***Graduate Teaching Assistant - University of Kansas, School of Business***
-- BSAN 440 - Foundations in Business Analytics, (Spring 2026, Spring 2025, Fall 2022)
-- BSAN 416 – Modeling and Optimization of Business Decisions, (Fall 2026)
-- BSAN/SCM 415 - Data Analysis and Forecasting, (Spring 2024, Fall 2023, Spring 2022)
-- SCM 403 - Logistics, Transportation, and Warehouse Management, (Spring 2023)
-- BSAN 326 - Database Management Systems, (Fall 2021)
-
-Education
+- BSAN 440: Foundations in Business Analytics, (Spring 2026, Spring 2025, Fall 2022)
+- BSAN 416: Modeling and Optimization of Business Decisions, (Fall 2026)
+- BSAN/SCM 415: Data Analysis and Forecasting, (Spring 2024, Fall 2023, Spring 2022)
+- SCM 403: Logistics, Transportation, and Warehouse Management, (Spring 2023)
+- BSAN 326: Database Management Systems, (Fall 2021)
+  
+****Notes: The BSAN and SCM courses listed above are undergraduate offerings within the Business Analytics and Supply Chain Management programs, respectively.
+Education****
 ----
 - Ph.D. in Analytics, Information and Operations, Expected May 2026
 - M.S. in Business Analytics and Information Systems
@@ -47,8 +48,8 @@ Education
 
 Awards & Honors
 ----
-- John. O. Tollefson Doctoral Student Teaching Award, University of Kansas, 2026
 - HICSS Doctoral Fellow, Hawaii International Conference on System Sciences (HICSS), 2026
+- John O. Tollefson Doctoral Student Teaching Award, University of Kansas, 2026
 - Max E. Fessler Dissertation Award, University of Kansas, 2025
 
 

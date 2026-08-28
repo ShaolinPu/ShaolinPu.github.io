@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the Department of Analytics, Information, and Operations of School of Business at the University of Kansas, specializing in Information Systems. 
 
-My research lies at the intersection of digital innovation, entrepreneurship, digital economy, crowdfunding and sharing economy, digital platform strategies and operations, and the strategic impact of GenAI in Business.
+My research lies at the intersection of digital economy, digital platform, crowdfunding, and artificial intelligence.
 
 I teach Data Analysis and Forecasting courses for undergraduate students. 
 
@@ -22,18 +22,19 @@ Research Interests
 ----
 - Innovation and Entrepreneurship
 - Digital Economy
+- Digital Platforms
 - Crowdfunding and Sharing Economy
-- Digital Platforms Strategy and Operations
-- Applications, Risks, and Strategic Impacts of GenAI in Business
+- Applications, Risks, and Strategic Impacts of Artificial Intelligence in Business
 
 Teaching Experience
 ----
 ***Instructor - University of Kansas, School of Business***
-- BSAN/SCM 415 - Data Analysis and Forecasting, (Evaluation Scores: 4.63/5, Fall 2025)
-- BSAN/SCM 415 - Data Analysis and Forecasting, (Evaluation Scores: 4.15/5, Fall 2024)
+- BSAN/SCM 415 - Data Analysis and Forecasting, (30 Students, Teaching Evaluations: 4.63/5, Fall 2025)
+- BSAN/SCM 415 - Data Analysis and Forecasting, (29 Students, Teaching Evaluations: 4.15/5, Fall 2024) 
 
 ***Graduate Teaching Assistant - University of Kansas, School of Business***
-- BSAN 440 - Foundations in Business Analytics, (Spring 2025, Fall 2022)
+- BSAN 440 - Foundations in Business Analytics, (Spring 2026, Spring 2025, Fall 2022)
+- BSAN 416 – Modeling and Optimization of Business Decisions, (Fall 2026)
 - BSAN/SCM 415 - Data Analysis and Forecasting, (Spring 2024, Fall 2023, Spring 2022)
 - SCM 403 - Logistics, Transportation, and Warehouse Management, (Spring 2023)
 - BSAN 326 - Database Management Systems, (Fall 2021)
@@ -51,4 +52,4 @@ Awards & Honors
 - Max E. Fessler Dissertation Award, University of Kansas, 2025
 
 
-(Last revised: January 10, 2026)
+(Last revised: August 27, 2026)

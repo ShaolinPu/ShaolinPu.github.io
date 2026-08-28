@@ -18,13 +18,9 @@ I teach Data Analysis and Forecasting courses for undergraduate students.
 
 If you are interested in discussing about research and teaching, feel free to email me at shaolin@ku.edu.
 
-Research Interests
+Teaching Interests
 ----
-- Digital Economy
-- Digital Platforms
-- Crowdfunding and Sharing Economy
-- Innovation and Entrepreneurship
-- Applications, Risks, and Strategic Impacts of GenAI in Business
+Business Analytics; Data Analysis and Forecasting; Information Systems; Digital Economy; Machine Learning; Deep Learning; Database Management; Programming (Python, R, C, C++); Artificial Intelligence and Agentic AI (focusing on technical and strategic aspects, GenAI for business, or the risk and strategic impact in business).
 
 Teaching Experience
 ----

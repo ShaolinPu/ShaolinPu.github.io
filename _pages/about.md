@@ -39,7 +39,7 @@ Teaching Experience
 - SCM 403: Logistics, Transportation, and Warehouse Management, (Spring 2023)
 - BSAN 326: Database Management Systems, (Fall 2021)
 
-  Notes: The BSAN and SCM courses listed above are undergraduate offerings within the Business Analytics and Supply Chain Management programs, respectively.
+Notes: The BSAN and SCM courses listed above are undergraduate offerings within the Business Analytics and Supply Chain Management programs, respectively.
 
 Education
 ----
@@ -49,7 +49,7 @@ Education
 
 Awards & Honors
 ----
-- HICSS Doctoral Fellow, Hawaii International Conference on System Sciences (HICSS), 2026
+- HICSS Doctoral Fellow, Hawaii International Conference on System Sciences, 2026
 - John O. Tollefson Doctoral Student Teaching Award, University of Kansas, 2026
 - Max E. Fessler Dissertation Award, University of Kansas, 2025
 

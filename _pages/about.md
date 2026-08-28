@@ -41,10 +41,11 @@ Teaching Experience
 
   Notes: The BSAN and SCM courses listed above are undergraduate offerings within the Business Analytics and Supply Chain Management programs, respectively.
 
+Education
 ----
-- Ph.D. in Analytics, Information and Operations, Expected May 2027
-- M.S. in Business Analytics and Information Systems
-- M.S. in Management
+- Ph.D. in Analytics, Information and Operations, University of Kansas, Expected May 2027
+- M.S. in Business Analytics and Information Systems, University of South Florida
+- M.S. in Management, University of South Florida
 
 Awards & Honors
 ----

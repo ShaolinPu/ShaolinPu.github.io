@@ -20,7 +20,7 @@ If you are interested in discussing about research and teaching, feel free to em
 
 Research Interests
 ----
-***Topics:*** Digital Economy; Artificial Intelligence; Digital Platforms; Crowdfunding and Sharing Economy.
+***Topics:*** Digital Economy; Digital Platforms; Crowdfunding and Sharing Economy; Artificial Intelligence.
 
 ***Methodologies:*** Econometrics, Experimental Design, Machine Learning, Data Mining, Analytical Modeling.
 

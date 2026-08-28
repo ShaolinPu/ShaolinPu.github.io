@@ -20,7 +20,7 @@ If you are interested in discussing about research and teaching, feel free to em
 
 Teaching Interests
 ----
-Business Analytics; Data Analysis and Forecasting; Information Systems; Digital Economy; Machine Learning; Deep Learning; Database Management; Programming (Python, R, C, C++); Artificial Intelligence and Agentic AI (focusing on technical and strategic aspects, GenAI for business, or the risk and strategic impact in business).
+Information Systems; Business Analytics; Data Analysis and Forecasting; the Digital Economy; Machine Learning; Deep Learning; Database Management; Programming (Python, R, C, and C++); and Artificial Intelligence and Agentic AI (focusing on their technical and strategic dimensions, business applications and risks, and impact on digital platform markets).
 
 Teaching Experience
 ----

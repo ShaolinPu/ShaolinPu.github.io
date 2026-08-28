@@ -24,13 +24,13 @@ Research Interests
 - Digital Platforms
 - Crowdfunding and Sharing Economy
 - Innovation and Entrepreneurship
-- Applications, Risks, and Strategic Impacts of Artificial Intelligence in Business
+- Applications, Risks, and Strategic Impacts of GenAI in Business
 
 Teaching Experience
 ----
 ***Instructor - University of Kansas, School of Business***
-- BSAN/SCM 415: Data Analysis and Forecasting, (30 Students, Teaching Evaluations: 4.63/5, Fall 2025)
-- BSAN/SCM 415: Data Analysis and Forecasting, (29 Students, Teaching Evaluations: 4.15/5, Fall 2024) 
+- BSAN/SCM 415: Data Analysis and Forecasting, (Teaching Evaluations: 4.63/5, Fall 2025)
+- BSAN/SCM 415: Data Analysis and Forecasting, (Teaching Evaluations: 4.15/5, Fall 2024) 
 
 ***Graduate Teaching Assistant - University of Kansas, School of Business***
 - BSAN 440: Foundations in Business Analytics, (Spring 2026, Spring 2025, Fall 2022)

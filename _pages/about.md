@@ -20,10 +20,10 @@ If you are interested in discussing about research and teaching, feel free to em
 
 Research Interests
 ----
-- Innovation and Entrepreneurship
 - Digital Economy
 - Digital Platforms
 - Crowdfunding and Sharing Economy
+- Innovation and Entrepreneurship
 - Applications, Risks, and Strategic Impacts of Artificial Intelligence in Business
 
 Teaching Experience

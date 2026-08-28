@@ -38,7 +38,9 @@ Teaching Experience
 - BSAN/SCM 415: Data Analysis and Forecasting, (Spring 2024, Fall 2023, Spring 2022)
 - SCM 403: Logistics, Transportation, and Warehouse Management, (Spring 2023)
 - BSAN 326: Database Management Systems, (Fall 2021)
-  
+
+* Notes: The BSAN and SCM courses listed above are undergraduate offerings within the Business Analytics and Supply Chain Management programs, respectively. * 
+
 ----
 - Ph.D. in Analytics, Information and Operations, Expected May 2026
 - M.S. in Business Analytics and Information Systems

@@ -16,7 +16,7 @@ My research lies at the intersection of digital economy, digital platform, crowd
 
 I teach Data Analysis and Forecasting courses for undergraduate students. 
 
-If you are interested in discussing about research and teaching, feel free to email me at shaolin@ku.edu.
+If you are interested in discussing about research and teaching, feel free to email me at shaolin@ku.edu or connect with me on LinkedIn.
 
 Research Interests
 ----

@@ -10,13 +10,20 @@ redirect_from:
 ***Thanks for visiting!***
 
 
-I am a Ph.D. candidate in the Department of Analytics, Information, and Operations of School of Business at the University of Kansas, specializing in Information Systems. 
+I am a Ph.D. candidate in Analytics, Information and Operations, specializing in Information Systems, at the University of Kansas School of Business. 
 
 My research lies at the intersection of digital economy, digital platform, crowdfunding, and artificial intelligence.
 
 I teach Data Analysis and Forecasting courses for undergraduate students. 
 
 If you are interested in discussing about research and teaching, feel free to email me at shaolin@ku.edu.
+
+Research Interests
+----
+***Topics:*** Digital Economy; Artificial Intelligence; Digital Platforms; Crowdfunding and Sharing Economy.
+
+***Methodologies:*** Econometrics, Experimental Design, Machine Learning, Data Mining, Analytical Modeling.
+
 
 Teaching Interests
 ----

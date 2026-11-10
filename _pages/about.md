@@ -16,6 +16,8 @@ My research examines how digital platforms and emerging technologies shape entre
 
 My teaching interests include business analytics, operations and supply chain management, information systems, and AI applications in business. At KU, I have taught Data Analysis and Forecasting and received the 2026 John O. Tollefson Doctoral Student Teaching Award. I also developed the BSAN Model Building Workbench, an open-source tool supporting structured human–AI collaboration in analytics education.
 
+Outside academia, I enjoy running, bouldering, hiking, cooking, and being with my family.
+
 If you are interested in discussing about research and teaching, feel free to email me at shaolin@ku.edu or connect with me on LinkedIn.
 
 Research
@@ -75,6 +77,6 @@ Awards & Honors
 - Max E. Fessler Dissertation Award, University of Kansas, 2025
 
 ----
-Outside academia, I enjoy running, bouldering, hiking, cooking, and being with my family.
+
 
 (Last revised: November 09, 2026)

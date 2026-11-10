@@ -20,12 +20,6 @@ Outside academia, I enjoy running, bouldering, hiking, cooking, and being with m
 
 I welcome opportunities to connect about research, teaching, and potential collaborations. Feel free to email me at shaolin@ku.edu or connect with me on LinkedIn.
 
-Awards & Honors
-----
-- HICSS Doctoral Fellow, Hawaii International Conference on System Sciences, 2026
-- John O. Tollefson Doctoral Student Teaching Award, University of Kansas, 2026
-- Max E. Fessler Dissertation Award, University of Kansas, 2025
-
 Research
 ----
 ***Topics:*** Digital Economy, Digital Platforms and Platform Operations, Crowdfunding and Sharing Economy, Artificial Intelligence.
@@ -76,6 +70,11 @@ Education
 - M.S. in Business Analytics and Information Systems, University of South Florida
 - M.S. in Management, University of South Florida
 
+Awards & Honors
+----
+- HICSS Doctoral Fellow, Hawaii International Conference on System Sciences, 2026
+- John O. Tollefson Doctoral Student Teaching Award, University of Kansas, 2026
+- Max E. Fessler Dissertation Award, University of Kansas, 2025
 ----
 
 

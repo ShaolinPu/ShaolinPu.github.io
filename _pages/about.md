@@ -18,7 +18,13 @@ My teaching interests include business analytics, operations and supply chain ma
 
 Outside academia, I enjoy running, bouldering, hiking, cooking, and being with my family.
 
-If you are interested in discussing about research and teaching, feel free to email me at shaolin@ku.edu or connect with me on LinkedIn.
+I welcome opportunities to connect about research, teaching, and potential collaborations. Feel free to email me at shaolin@ku.edu or connect with me on LinkedIn.
+
+Awards & Honors
+----
+- HICSS Doctoral Fellow, Hawaii International Conference on System Sciences, 2026
+- John O. Tollefson Doctoral Student Teaching Award, University of Kansas, 2026
+- Max E. Fessler Dissertation Award, University of Kansas, 2025
 
 Research
 ----
@@ -69,12 +75,6 @@ Education
 - Ph.D. in Analytics, Information and Operations, University of Kansas, Expected May 2027
 - M.S. in Business Analytics and Information Systems, University of South Florida
 - M.S. in Management, University of South Florida
-
-Awards & Honors
-----
-- HICSS Doctoral Fellow, Hawaii International Conference on System Sciences, 2026
-- John O. Tollefson Doctoral Student Teaching Award, University of Kansas, 2026
-- Max E. Fessler Dissertation Award, University of Kansas, 2025
 
 ----
 

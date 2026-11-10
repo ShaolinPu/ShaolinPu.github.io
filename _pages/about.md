@@ -46,7 +46,7 @@ Teaching
 ----
 ***Teaching interests:*** Information Systems; Business Analytics; Data Analysis and Forecasting; Text Mining; Digital Economy; Machine Learning; Deep Learning; Database Management; Programming (Python, R, C, and C++); Operations and Supply Chain Management; Logistics, Transportation, and Warehouse Management; and Artificial Intelligence and Agentic AI (focusing on their technical and strategic dimensions, business applications and risks, and impact on digital platform markets).
 
-***Teaching with AI:*** I built the Business Analytics Model-Building Workbench, an open-source tool that guides students through six stages of an analytics project with a Socratic AI coach, and records AI output, student verification, and revisions for grading. (BSAN Model Building Workbench, https://bsanmodelworkbench.streamlit.app/)
+***Teaching with AI:*** I built the Business Analytics Model-Building Workbench, an open-source tool that guides students through six stages of an analytics project with a Socratic AI coach, and records AI output, student verification, and revisions for grading. (https://bsanmodelworkbench.streamlit.app/)
 
 Teaching Experience
 ----

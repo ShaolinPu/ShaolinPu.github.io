@@ -32,7 +32,7 @@ Research
 
 ***Papers under review***
 
-4. “Forecasting Market Uncertainty with Guided Concepts from Personal-Finance Forums,” Karthik Srinivasan, Jinhang Jiang, **Shaolin Pu**, and Mei Feng. Revising for **third-round review** at *Journal of the Association for Information Systems*.
+4. “Forecasting Market Uncertainty with Guided Concepts from Personal-Finance Forums,” Karthik Srinivasan, Jinhang Jiang, **Shaolin Pu**, and Mei Feng. In preparation for ***third-round review*** at *Journal of the Association for Information Systems*.
 5. “The Survival of the Smartest: Tracking the Rapid Evolution of Large Language Models,” Bhumika Gupta, **Shaolin Pu**, and Karthik Srinivasan. Under review at *Technological Forecasting and Social Change*.
 
 ***Work in progress***

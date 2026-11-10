@@ -12,32 +12,50 @@ redirect_from:
 
 I am a Ph.D. candidate in Analytics, Information and Operations, specializing in Information Systems, at the University of Kansas School of Business. 
 
-My research lies at the intersection of digital economy, digital platform, crowdfunding, and artificial intelligence.
+My research lies at the intersection of digital platforms, online text analysis, and artificial intelligence. My research examines how digital platforms shape entrepreneurial strategies and market outcomes. My dissertation focuses on reward-based crowdfunding, investigating how creators communicate with backers, respond to blockbuster projects, and time their launches amid competition. More broadly, I study platform operations, technology-enabled business decisions, and the role of AI agents in digital markets. I use econometrics and causal inference, NLP and large language models, and analytical modeling to address these questions.
 
-I teach Data Analysis and Forecasting courses for undergraduate students. 
+My teaching interests include business analytics, operations and supply chain management, information systems, and AI applications in business. At KU, I have taught Data Analysis and Forecasting and received the 2026 John O. Tollefson Doctoral Student Teaching Award. I also developed the BSAN Model Building Workbench, an open-source tool supporting structured human–AI collaboration in analytics education.
 
 If you are interested in discussing about research and teaching, feel free to email me at shaolin@ku.edu or connect with me on LinkedIn.
 
-Research Interests
+Research
 ----
-***Topics:*** Digital Economy, Digital Platforms, Crowdfunding and Sharing Economy, Artificial Intelligence.
+***Topics:*** Digital Economy, Digital Platforms and Platform Operations, Crowdfunding and Sharing Economy, Artificial Intelligence.
 
-***Methodologies:*** Econometrics, Experimental Design, Machine Learning, Data Mining, Analytical Modeling.
+***Methodologies:*** Econometrics, Experimental Design, Machine Learning, Data Mining, NLP and LLM-based Text Analysis, Analytical Modeling.
 
+***Dissertation essays***
 
-Teaching Interests
+1. “Through the Lens of Creator Type: The Effects of Informational and Relational Messaging on Funding Outcomes in Reward-Based Crowdfunding,” **Shaolin Pu**, Karthik Srinivasan, Ben Sherwood, and Arvind Tripathi. Under review at *Information Systems Research*.
+2. “Spillover or Starvation? Effects of Blockbuster Projects in Reward-Based Crowdfunding,” **Shaolin Pu**, Karthik Srinivasan, Ben Sherwood, and Arvind Tripathi. Under review at *Information Systems Research*.
+3. “Riding the Wave, Dodging the Crowd: How Competing Goals Shape Launch Timing in Reward-Based Crowdfunding,” **Shaolin Pu**, Karthik Srinivasan, Ben Sherwood, and Arvind Tripathi. In preparation for Production and Operations Management.
+
+***Papers under review***
+
+4. “Forecasting Market Uncertainty with Guided Concepts from Personal-Finance Forums,” Karthik Srinivasan, Jinhang Jiang, **Shaolin Pu**, and Mei Feng. Revising for **third-round review** at *Journal of the Association for Information Systems*.
+5. “The Survival of the Smartest: Tracking the Rapid Evolution of Large Language Models,” Bhumika Gupta, **Shaolin Pu**, and Karthik Srinivasan. Under review at *Technological Forecasting and Social Change*.
+
+***Work in progress***
+
+6. “When Does Crowdfunding Outperform Amazon Launchpad? A Comparative Analysis Using Newsvendor and (Q,R) Inventory Models,” **Shaolin Pu** and Suman Mallik.
+7. “A New Middleman? AI Agents and Double Marginalization in Digital Platform Markets,” **Shaolin Pu** and Arvind Tripathi.
+
+Teaching
 ----
-Information Systems; Business Analytics; Data Analysis and Forecasting; Text Mining; Digital Economy; Machine Learning; Deep Learning; Database Management; Programming (Python, R, C, and C++); and Artificial Intelligence and Agentic AI (focusing on their technical and strategic dimensions, business applications and risks, and impact on digital platform markets).
+***Teaching interests:*** Information Systems; Business Analytics; Data Analysis and Forecasting; Text Mining; Digital Economy; Machine Learning; Deep Learning; Database Management; Programming (Python, R, C, and C++); Operations and Supply Chain Management; Logistics, Transportation, and Warehouse Management; and Artificial Intelligence and Agentic AI (focusing on their technical and strategic dimensions, business applications and risks, and impact on digital platform markets).
+
+***Teaching with AI:*** I built the BSAN Model Building Workbench (https://bsanmodelworkbench.streamlit.app/), an open-source tool that guides students through six stages of an analytics project with a Socratic AI coach, and records AI output, student verification, and revisions for grading. 
 
 Teaching Experience
 ----
 ***Instructor - University of Kansas, School of Business***
+- BSAN 417: Introduction to Statistical Modeling, (scheduled Spring 2027)
 - BSAN/SCM 415: Data Analysis and Forecasting, (Teaching Evaluations: 4.63/5, Fall 2025)
 - BSAN/SCM 415: Data Analysis and Forecasting, (Teaching Evaluations: 4.15/5, Fall 2024) 
 
-***Graduate Teaching Assistant - University of Kansas, School of Business***
+***Graduate teaching assistant - University of Kansas, School of Business***
 - BSAN 440: Foundations in Business Analytics, (Spring 2026, Spring 2025, Fall 2022)
-- BSAN 416: Modeling and Optimization of Business Decisions, (Fall 2026)
+- BSAN 416: Modeling and Optimization of Business Decisions, (Fall 2026, current)
 - BSAN/SCM 415: Data Analysis and Forecasting, (Spring 2024, Fall 2023, Spring 2022)
 - SCM 403: Logistics, Transportation, and Warehouse Management, (Spring 2023)
 - BSAN 326: Database Management Systems, (Fall 2021)

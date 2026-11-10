@@ -26,18 +26,18 @@ Research
 
 ***Methodologies:*** Econometrics, Experimental Design, Machine Learning, Data Mining, NLP and LLM-based Text Analysis, Analytical Modeling.
 
-***Dissertation essays***
+***Dissertation Essays***
 
 1. “Through the Lens of Creator Type: The Effects of Informational and Relational Messaging on Funding Outcomes in Reward-Based Crowdfunding,” **Shaolin Pu**, Karthik Srinivasan, Ben Sherwood, and Arvind Tripathi. Under review at *Information Systems Research*.
 2. “Spillover or Starvation? Effects of Blockbuster Projects in Reward-Based Crowdfunding,” **Shaolin Pu**, Karthik Srinivasan, Ben Sherwood, and Arvind Tripathi. Under review at *Information Systems Research*.
 3. “Riding the Wave, Dodging the Crowd: How Competing Goals Shape Launch Timing in Reward-Based Crowdfunding,” **Shaolin Pu**, Karthik Srinivasan, Ben Sherwood, and Arvind Tripathi. In preparation for *Production and Operations Management*.
 
-***Papers under review***
+***Papers Under Review***
 
 4. “Forecasting Market Uncertainty with Guided Concepts from Personal-Finance Forums,” Karthik Srinivasan, Jinhang Jiang, **Shaolin Pu**, and Mei Feng. In preparation for ***third-round review*** at *Journal of the Association for Information Systems*.
 5. “The Survival of the Smartest: Tracking the Rapid Evolution of Large Language Models,” Bhumika Gupta, **Shaolin Pu**, and Karthik Srinivasan. Under review at *Technological Forecasting and Social Change*.
 
-***Work in progress***
+***Work In Progress***
 
 6. “When Does Crowdfunding Outperform Amazon Launchpad? A Comparative Analysis Using Newsvendor and (Q,R) Inventory Models,” **Shaolin Pu** and Suman Mallik.
 7. “A New Middleman? AI Agents and Double Marginalization in Digital Platform Markets,” **Shaolin Pu** and Arvind Tripathi.
@@ -55,7 +55,7 @@ Teaching Experience
 - BSAN/SCM 415: Data Analysis and Forecasting, (Teaching Evaluations: 4.63/5, Fall 2025)
 - BSAN/SCM 415: Data Analysis and Forecasting, (Teaching Evaluations: 4.15/5, Fall 2024) 
 
-***Graduate teaching assistant - University of Kansas, School of Business***
+***Graduate Teaching Assistant - University of Kansas, School of Business***
 - BSAN 440: Foundations in Business Analytics, (Spring 2026, Spring 2025, Fall 2022)
 - BSAN 416: Modeling and Optimization of Business Decisions, (Fall 2026, current)
 - BSAN/SCM 415: Data Analysis and Forecasting, (Spring 2024, Fall 2023, Spring 2022)

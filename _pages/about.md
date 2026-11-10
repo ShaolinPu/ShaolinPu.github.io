@@ -74,5 +74,7 @@ Awards & Honors
 - John O. Tollefson Doctoral Student Teaching Award, University of Kansas, 2026
 - Max E. Fessler Dissertation Award, University of Kansas, 2025
 
+----
+Outside academia, I enjoy running, bouldering, hiking, cooking, and being with my family.
 
 (Last revised: November 09, 2026)

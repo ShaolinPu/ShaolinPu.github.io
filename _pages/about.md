@@ -28,7 +28,7 @@ Research
 
 1. “Through the Lens of Creator Type: The Effects of Informational and Relational Messaging on Funding Outcomes in Reward-Based Crowdfunding,” **Shaolin Pu**, Karthik Srinivasan, Ben Sherwood, and Arvind Tripathi. Under review at *Information Systems Research*.
 2. “Spillover or Starvation? Effects of Blockbuster Projects in Reward-Based Crowdfunding,” **Shaolin Pu**, Karthik Srinivasan, Ben Sherwood, and Arvind Tripathi. Under review at *Information Systems Research*.
-3. “Riding the Wave, Dodging the Crowd: How Competing Goals Shape Launch Timing in Reward-Based Crowdfunding,” **Shaolin Pu**, Karthik Srinivasan, Ben Sherwood, and Arvind Tripathi. In preparation for Production and Operations Management.
+3. “Riding the Wave, Dodging the Crowd: How Competing Goals Shape Launch Timing in Reward-Based Crowdfunding,” **Shaolin Pu**, Karthik Srinivasan, Ben Sherwood, and Arvind Tripathi. In preparation for *Production and Operations Management*.
 
 ***Papers under review***
 
